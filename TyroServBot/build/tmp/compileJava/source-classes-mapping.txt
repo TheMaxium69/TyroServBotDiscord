@@ -1,0 +1,4 @@
+fr/tyrolium/serv/maxime/bot/Logique.java
+ fr.tyrolium.serv.maxime.bot.Logique
+fr/tyrolium/serv/maxime/bot/Main.java
+ fr.tyrolium.serv.maxime.bot.Main
